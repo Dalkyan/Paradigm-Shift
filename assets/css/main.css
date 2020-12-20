@@ -161,8 +161,17 @@ input, select, textarea {
 		color: #000000;
 	}
 
-	body, input, select, textarea {
+	body, input, textarea {
 		color: #000000;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-size: 1rem;
+		font-weight: 300;
+		letter-spacing: 0.0375em;
+		line-height: 2;
+	}
+
+	.lefttext {
+		color: #ffffff;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
