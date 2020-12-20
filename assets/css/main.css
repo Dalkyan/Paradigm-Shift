@@ -2,8 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
 
 /* Added christmas font */
-@font-face {font-family: "christmasFont"; src: url("//db.onlinewebfonts.com/t/9ea04e100232e3f323403ab372aff2cd.eot"); src: url("//db.onlinewebfonts.com/t/9ea04e100232e3f323403ab372aff2cd.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9ea04e100232e3f323403ab372aff2cd.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9ea04e100232e3f323403ab372aff2cd.woff") format("woff"), url("//db.onlinewebfonts.com/t/9ea04e100232e3f323403ab372aff2cd.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9ea04e100232e3f323403ab372aff2cd.svg#Beyond Wonderland") format("svg"); } 
-
+@font-face {font-family: "Chopin Script"; src: url("//db.onlinewebfonts.com/t/66b53c5583db0de64a902b2ec6e311ea.eot"); src: url("//db.onlinewebfonts.com/t/66b53c5583db0de64a902b2ec6e311ea.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/66b53c5583db0de64a902b2ec6e311ea.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/66b53c5583db0de64a902b2ec6e311ea.woff") format("woff"), url("//db.onlinewebfonts.com/t/66b53c5583db0de64a902b2ec6e311ea.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/66b53c5583db0de64a902b2ec6e311ea.svg#Chopin Script") format("svg"); } 
 /*
 	Paradigm Shift by HTML5 UP
 	html5up.net | @ajlkn
@@ -226,7 +225,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: christmasFont;
+		font-family: "Chopin Script";
 		font-size: 5rem;
 		font-weight: 700;
 		letter-spacing: -0.05em;
